@@ -9,10 +9,11 @@ Hi friend 👋
 🌍Blog：<a href="https://www.fanxingw.cn">Fanxing Blog</a> <br>
 💪saying：树欲静而风不止，子欲养而亲不待。<br>
 <br>
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true&theme=dark&count_private=true)<br> -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fanxing9420&theme=dark&layout=compact)
 
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true&theme=dark&count_private=true)<br> -->
+
 <!-- <table border="0">
   <tr>
     <td width="75%">
