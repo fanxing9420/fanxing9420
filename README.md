@@ -2,13 +2,13 @@ Hi friend 👋
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true&theme=dark&count_private=true" alt="logo" align="right" style="margin-bottom: 20px;" />  
 </p>
-👉About me：University Student <br>
+👉About me：大学生 <br>
 ❤️Hobby：IT、Sports <br>
 📫Email：fanxingw@qq.com <br>
 🌱Learning：Python、MySQL、Linux <br>
-🌍Blog：<a href="https://www.fanxingw.cn">Fanxing Blog</a> 
-<br><br><br><br><br><br>
-<table border="0">
+🌍Blog：<a href="https://www.fanxingw.cn">Fanxing Blog</a> <br>
+💪saying：树欲静而风不止，子欲养而亲不待。
+<!-- <table border="0">
   <tr>
     <td width="75%">
       <h1>张三</h1>
@@ -21,7 +21,7 @@ Hi friend 👋
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
-</table>
+</table> -->
 
 <br><br><br><br><br><br><br>
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true&theme=dark&count_private=true)<br> -->
