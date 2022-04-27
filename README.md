@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 About me：University Student
 Hobby：IT、Sports
 Learning：Python、MySQL、Linux
-Blog：Fanxing Blog(https://www.fanxingw.cn)
+Blog：[Fanxing Blog](https://www.fanxingw.cn)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true&theme=dark&count_private=true)<br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fanxing9420&theme=dark&layout=compact)
