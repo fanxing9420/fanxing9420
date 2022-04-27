@@ -1,3 +1,4 @@
+<html>
 Hi friend 👋
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true&theme=dark&count_private=true" alt="logo" align="right" style="margin-bottom: 20px;" />  
@@ -12,12 +13,12 @@ Hi friend 👋
 <br><br><br><br><br>
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true&theme=dark&count_private=true)<br> -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fanxing9420&theme=dark&layout=compact)
-
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fanxing9420&theme=dark&layout=compact) -->
+<body background="https://www.kaisir.cn/img/code.gif">
 
 <img align="center" src="https://camo.githubusercontent.com/64c027195853012c7ecf4382257fe11062f1af47111bf66b80601ae461cc1e83/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f786d756c692f786d756c69506963407069632f323032302f64696e6f2e676966" width="70%" data-canonical-src="https://cdn.jsdelivr.net/gh/xmuli/xmuliPic@pic/2020/dino.gif" style="max-width: 100%;">
-
-
+</body>
+</html>
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true&theme=dark&count_private=true)<br> -->
 <!-- <table border="0">
   <tr>
