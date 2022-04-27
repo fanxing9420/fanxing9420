@@ -1,8 +1,3 @@
-### Hi friend 👋
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true&theme=dark&count_private=true" alt="logo" align="right" style="margin-bottom: 20px;" />  
-</p>
-
 <!--
 **fanxing9420/fanxing9420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi friend 👋
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true" alt="logo" align="right" style="margin-bottom: 30px;" />  
+</p>
 👉About me：University Student <br>
 ❤️Hobby：IT、Sports <br>
 📫Email：fanxingw@qq.com <br>
