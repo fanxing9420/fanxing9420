@@ -1,6 +1,6 @@
 Hi friend 👋
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true" alt="logo" align="right" style="margin-bottom: 20px;" />  
+<img src="https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true" alt="logo"  style="margin-bottom: 20px;" />  
 </p>
 👉About me：University Student <br>
 ❤️Hobby：IT、Sports <br>
