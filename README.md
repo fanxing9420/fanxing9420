@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👉About me：University Student <br>
+👉About me：University Student     <img src="![Github Stats](https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true&theme=dark&count_private=true)" style="float:right; margin: 5px;" /><br>
 ❤️Hobby：IT、Sports <br>
 📫Email：fanxingw@qq.com <br>
 🌱Learning：Python、MySQL、Linux <br>
