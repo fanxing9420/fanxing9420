@@ -1,6 +1,6 @@
 Hi friend 👋
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true&theme=dark&count_private=true" alt="logo" align="right" style="margin-bottom: 50px;" />  
+<img src="https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true&theme=dark&count_private=true" alt="logo" align="right" style="margin-bottom: 80px;" />  
 </p>
 👉About me：大学生 <br>
 ❤️Hobby：IT、Sports <br>
@@ -8,6 +8,9 @@ Hi friend 👋
 🌱Learning：Python、MySQL、Linux <br>
 🌍Blog：<a href="https://www.fanxingw.cn">Fanxing Blog</a> <br>
 💪saying：树欲静而风不止，子欲养而亲不待。<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
