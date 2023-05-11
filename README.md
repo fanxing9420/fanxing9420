@@ -9,7 +9,7 @@
 📫Email：fanxingw@qq.com <br>
 🌱Learning：Python、MySQL、Linux <br>
 🌍Blog：<a href="https://www.fanxingw.cn">Fanxing Blog</a> <br>
-💪saying：树欲静而风不止，子欲养而亲不待。
+💪saying：追光而遇，沐光而行。
 <br><br><br><br><br>
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=fanxing9420&show_icons=true&theme=dark&count_private=true)<br> -->
