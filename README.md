@@ -8,7 +8,7 @@
 ❤️Hobby：IT、Sports <br>
 📫Email：fanxingw@qq.com <br>
 🌱Learning：Python、MySQL、Linux <br>
-🌍Blog：<a href="https://www.fanxingw.cn">Fanxing Blog</a> <br>
+🌍Blog：<a href="https://blog.itmua.cn">Blog</a> <br>
 💪saying：追光而遇，沐光而行。
 <br><br><br><br><br>
 
