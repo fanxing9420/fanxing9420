@@ -6,7 +6,7 @@
 <h3>  Hi,我是Itmua 👋 </h3>
 👉About me：student <br>
 ❤️Hobby：IT、Sports <br>
-📫Email：fanxingw@qq.com <br>
+📫Email：#@qq.com <br>
 🌱Learning：Python、MySQL、Linux <br>
 🌍Blog：<a href="https://blog.itmua.cn">Blog</a> <br>
 💪saying：追光而遇，沐光而行。
